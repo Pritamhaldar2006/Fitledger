@@ -11,7 +11,8 @@
 Each user’s workout records are securely tied to their wallet address — ensuring privacy, transparency, and permanence.  
 
 Perfect for anyone learning how to build decentralized applications (dApps) and exploring how blockchain can be used for **personal data tracking**.
-<img width="1920" height="1020" alt="smartContract" src="https://github.com/user-attachments/assets/4e306374-a74f-46f3-b04c-1f0741911c63" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 122721" src="https://github.com/user-attachments/assets/225be208-e45c-41ea-a114-f92d3781f8fb" />
+
 
 
 ---
@@ -42,7 +43,7 @@ FitLedger lets users:
 
 Deployed on: **XXX**  
 *(Replace this with your deployed smart contract address or testnet link once deployed)*
-**Transaction ID**--0x11f8f432f4f70ec2427db50b8bc6f16025b0b1d496b7e9fcfe408ad48bcb9a03
+**Transaction ID**--0xedfBeD0EDfC2f8FA674a7fc1c07753920A10bDaD
 ---
 
 ## 💻 Smart Contract Code
