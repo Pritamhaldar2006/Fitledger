@@ -49,5 +49,6 @@ Deployed on: **XXX**
 ## 💻 Smart Contract Code
 
 ```solidity
+0xedfBeD0EDfC2f8FA674a7fc1c07753920A10bDaD
 
             
